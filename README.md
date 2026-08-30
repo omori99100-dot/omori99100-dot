@@ -1,16 +1,17 @@
-## Hi there 👋
+# Omar M Ahmed — Computer Vision Engineer
 
-<!--
-**omori99100-dot/omori99100-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+خلفية هندسة كهروميكانيكية، أعمل الآن على أنظمة رؤية حاسوبية تطبيقية 
+لفحص الجودة الصناعي — كشف عيوب، قراءة قياسات، مراقبة خطوط إنتاج.
 
-Here are some ideas to get you started:
+## 🔧 المهارات
+`Python` `OpenCV` `PyTorch` `YOLOv8` `Object Detection` `Image Segmentation`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 مشاريع مختارة
+- **[Steel Defect Detection](https://github.com/omori99100-dot/cv-engineer-path/tree/main/week14)** — تدريب YOLOv8 على كشف 6 أنواع عيوب سطحية (NEU-DET)، مع اختبار Domain Shift على بيانات حقيقية خارج التوزيع الأصلي
+- **[Dogs vs Cats — Kaggle](https://github.com/omori99100-dot/cv-engineer-path/tree/main/week15)** — Transfer Learning (ResNet18)، Log Loss 0.092 على منافسة حقيقية
+
+## 📚 المسار الكامل
+تفاصيل الرحلة التعليمية كاملة (16 أسبوع، من OpenCV إلى Deployment): [cv-engineer-path](https://github.com/omori99100-dot/cv-engineer-path)
+
+## 📫 تواصل
+[LinkedIn](www.linkedin.com/in/omar-mohamed-976170253)
